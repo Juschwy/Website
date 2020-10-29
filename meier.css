@@ -1,0 +1,41 @@
+
+html,
+body {
+	background-color: #CCB069;
+}
+
+body {
+	max-width: 60em;
+	margin: 1em auto;
+}
+
+h1 {
+	background-color: firebrick;
+	color: beige;
+	padding: 0.5em;
+	font-family: 'Kodchasan', sans-serif;
+	border-radius: 0 1em 1em 1em;
+}
+
+h2 {
+	font-size: 2.6em;
+	color: firebrick;
+	background-color: #F0DE00;
+	border: thin solid;
+    font-family: 'Kodchasan', sans-serif;
+	text-align: center;
+}
+
+p,
+ul,
+table {
+	font-size: 1.3em;
+	text-align: justify;
+	font-family: sans-serif;
+	color: #654321;
+}
+
+ul ul {
+	font-size: inherit;
+}
+
